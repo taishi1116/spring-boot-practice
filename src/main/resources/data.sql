@@ -1,1 +1,1 @@
-insert into users values(1, 'shinoda', 'dummyPassword');
+insert into users values('01GBQN98TDXGPX34T7M5AP0TRB','taishi', 'shinoda' ,'test@example.com' ,'dummyPassword');
